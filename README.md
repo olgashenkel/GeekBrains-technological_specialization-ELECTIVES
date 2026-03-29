@@ -6,4 +6,4 @@
 
 - ***03. Продвинутый JavaScript. Обучение в записи[]()***
 
-- ***04. JavaScript про API браузеров. Обучение в записи[]()***
+- ***04. JavaScript про API браузеров. Обучение в записи[]()***# GeekBrains-technological_specialization-ELECTIVES
