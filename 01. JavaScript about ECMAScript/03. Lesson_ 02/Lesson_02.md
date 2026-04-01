@@ -1,5 +1,5 @@
 
-# Урок 1. Лекция: Функциональный Javascript
+# Урок 3. Лекция: Основы ООП (объектно-ориентированного программирования)
 
 ## План урока
 
@@ -9,9 +9,9 @@
 - Рекурсия
 
 
-## Практическая работа с лекции ([решение](https://github.com/olgashenkel/GeekBrains-technological_specialization-ELECTIVES/tree/main/01.%20JavaScript%20about%20ECMAScript/01.%20Lesson_01/lesson_01))
+## Практическая работа с лекции ([решение]())
 
-## Домашняя работа с лекции ([решение](https://github.com/olgashenkel/GeekBrains-technological_specialization-ELECTIVES/blob/main/01.%20JavaScript%20about%20ECMAScript/01.%20Lesson_01/lesson_01/homework.js))
+## Домашняя работа с лекции ([решение]())
 
 Задание № 1:   
 Дан массив const arr = [1, 5, 7, 9] с помощью Math.min и spread оператора, найти минимальное число в массиве, решение задание должно состоять из одной строки

@@ -5,7 +5,7 @@
 
 - Выполнение практических заданий в соответствии с [презентацией](https://gbcdn.mrgcdn.ru/uploads/asset/5855353/attachment/b3586e9ee26ed21a3fe18cbb5223ad20.pdf) к уроку
 
-## Домашняя работа ([решение]())
+## Домашняя работа ([решение](https://github.com/olgashenkel/GeekBrains-technological_specialization-ELECTIVES/tree/main/01.%20JavaScript%20about%20ECMAScript/02.%20Seminar_01/homework))
 
 1) Дан массив `const arr = [1, 5, 7, 9]` с помощью `Math.min` и `spread оператора`, найти минимальное число в массиве, решение задание должно состоять из одной строки
 2) Напишите функцию `createCounter`, которая создает счетчик и возвращает объект с двумя методами: `increment` и `decrement`. Метод `increment` должен увеличивать значение счетчика на 1, а метод `decrement` должен уменьшать значение счетчика на 1. Значение счетчика должно быть доступно только через методы объекта, а не напрямую.
@@ -84,7 +84,7 @@ console.log(targetElement);
 
 
 
-## Практическая работа с семинара ([решение]()):
+## Практическая работа с семинара ([решение](https://github.com/olgashenkel/GeekBrains-technological_specialization-ELECTIVES/tree/main/01.%20JavaScript%20about%20ECMAScript/02.%20Seminar_01/seminar_01)):
 
 
 ### Задание 1 (тайминг 20 минут)

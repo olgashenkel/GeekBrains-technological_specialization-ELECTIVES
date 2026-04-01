@@ -1,39 +1,23 @@
+/*
+************* Домашнее задание *************
 
-# Урок 1. Лекция: Функциональный Javascript
-
-## План урока
-
-- Spread, rest operator
-- Чистые функции, иммутабельность
-- Замыкания
-- Рекурсия
-
-
-## Практическая работа с лекции ([решение](https://github.com/olgashenkel/GeekBrains-technological_specialization-ELECTIVES/tree/main/01.%20JavaScript%20about%20ECMAScript/01.%20Lesson_01/lesson_01))
-
-## Домашняя работа с лекции ([решение](https://github.com/olgashenkel/GeekBrains-technological_specialization-ELECTIVES/blob/main/01.%20JavaScript%20about%20ECMAScript/01.%20Lesson_01/lesson_01/homework.js))
-
-Задание № 1:   
+************* Задание 1 *************
 Дан массив const arr = [1, 5, 7, 9] с помощью Math.min и spread оператора, найти минимальное число в массиве, решение задание должно состоять из одной строки
 
-
-Задание № 2:   
+************* Задание 2 *************
 Напишите функцию createCounter, которая создает счётчик и возвращает объект с двумя методами: increment и decrement. Метод increment должен увеличивать значение счетчика на 1, а метод decrement должен уменьшать значение счетчика на 1. Значение счетчика должно быть доступно только через методы объекта, а не напрямую.
 
-
-Задание № 3:   
+************* Задание 3 *************
 Напишите рекурсивную функцию findElementByClass, которая принимает корневой элемент дерева DOM и название класса в качестве аргументов и возвращает первый найденный элемент с указанным классом в этом дереве.
-```
 _________________________________________________________________________
 | Пример:                                                               |
 | const rootElement = document.getElementById('root');                  | 
 | const targetElement = findElementByClass(rootElement, 'my-class');    | 
 | console.log(targetElement);                                           | 
 |_______________________________________________________________________|
-```
+*/
 
-Результат выполнения ДЗ:
-```
+
 /* ******************** Задание № 1 ******************** */
 console.log('****** Задание № 1 ******');
 const arr = [1, 5, 7, 9];
@@ -77,4 +61,3 @@ function findElementByClass(rootElement, className) {
 
     return null;
 }
-```
