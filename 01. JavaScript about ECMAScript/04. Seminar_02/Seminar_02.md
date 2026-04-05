@@ -5,7 +5,7 @@
 
 - Выполнение практических заданий в соответствии с [презентацией](https://gbcdn.mrgcdn.ru/uploads/asset/5855355/attachment/ae3c9c33039d2aec852bea4397dc6102.pdf) к уроку
 
-## Домашняя работа ([решение](https://github.com/olgashenkel/GeekBrains-technological_specialization-ELECTIVES/tree/main/01.%20JavaScript%20about%20ECMAScript/04.%20Seminar_02/homework))
+## Домашняя работа ([решение](https://github.com/olgashenkel/GeekBrains-technological_specialization-ELECTIVES/blob/main/01.%20JavaScript%20about%20ECMAScript/04.%20Seminar_02/homework/script.js))
 
 **Задание 1: "Управление библиотекой книг"**
 
@@ -174,7 +174,7 @@ student2.displayInfo();
 
 
 
-## Практическая работа с семинара ([решение](https://github.com/olgashenkel/GeekBrains-technological_specialization-ELECTIVES/tree/main/01.%20JavaScript%20about%20ECMAScript/04.%20Seminar_02/seminar_02)):
+## Практическая работа с семинара ([решение](https://github.com/olgashenkel/GeekBrains-technological_specialization-ELECTIVES/blob/main/01.%20JavaScript%20about%20ECMAScript/04.%20Seminar_02/seminar_02/script.js)):
 
 
 ### Задание 1 (тайминг 20 минут)
