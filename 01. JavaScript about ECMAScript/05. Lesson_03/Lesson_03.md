@@ -12,10 +12,10 @@
 
 
 
-## Практическая работа с лекции ([решение](https://github.com/olgashenkel/GeekBrains-technological_specialization-ELECTIVES/tree/main/01.%20JavaScript%20about%20ECMAScript/05.%20Lesson_%2002/lesson_03))
+## Практическая работа с лекции ([решение](https://github.com/olgashenkel/GeekBrains-technological_specialization-ELECTIVES/tree/main/01.%20JavaScript%20about%20ECMAScript/05.%20Lesson_02/lesson_03))
 
 
-## Домашняя работа с лекции ([решение](https://github.com/olgashenkel/GeekBrains-technological_specialization-ELECTIVES/blob/main/01.%20JavaScript%20about%20ECMAScript/05.%20Lesson_%2002/lesson_03/homework.js))
+## Домашняя работа с лекции ([решение](https://github.com/olgashenkel/GeekBrains-technological_specialization-ELECTIVES/blob/main/01.%20JavaScript%20about%20ECMAScript/05.%20Lesson_02/lesson_03/homework.js))
 
 **Задание № 1. "Управление персоналом компании":**
 
