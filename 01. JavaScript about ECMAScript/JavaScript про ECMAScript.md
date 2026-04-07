@@ -7,5 +7,5 @@
 ### 4. [Урок 4. Семинар: Основы ООП (объектно-ориентированного программирования)](https://github.com/olgashenkel/GeekBrains-technological_specialization-ELECTIVES/blob/main/01.%20JavaScript%20about%20ECMAScript/04.%20Seminar_02/Seminar_02.md)
 ### 5. [Урок 5. Лекция: Объектно-ориентированное программирование в Javascript](https://github.com/olgashenkel/GeekBrains-technological_specialization-ELECTIVES/blob/main/01.%20JavaScript%20about%20ECMAScript/05.%20Lesson_03/Lesson_03.md)
 ### 6. [Урок 6. Семинар: Объектно-ориентированное программирование в Javascript](https://github.com/olgashenkel/GeekBrains-technological_specialization-ELECTIVES/blob/main/01.%20JavaScript%20about%20ECMAScript/06.%20Seminar_03/Seminar_03.md)
-### 7. Урок 7. Лекция: Асинхронность в Javascript[]()
-### 8. Урок 8. Семинар: Асинхронность в Javascript[]()
+### 7. [Урок 7. Лекция: Асинхронность в Javascript](https://github.com/olgashenkel/GeekBrains-technological_specialization-ELECTIVES/blob/main/01.%20JavaScript%20about%20ECMAScript/07.%20Lesson_04/Lesson_04.md)
+### 8. [Урок 8. Семинар: Асинхронность в Javascript](https://github.com/olgashenkel/GeekBrains-technological_specialization-ELECTIVES/blob/main/01.%20JavaScript%20about%20ECMAScript/08.%20Seminar_04/Seminar_04.md)
