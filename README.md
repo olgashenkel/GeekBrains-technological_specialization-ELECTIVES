@@ -4,6 +4,6 @@
 
 - ***02. Основы Node.js и инструменты сборки кода (Обучение в записи)[]()***
 
-- ***03. Продвинутый JavaScript (Обучение в записи)[]()***
+- ***03. [Продвинутый JavaScript (Обучение в записи)](https://github.com/olgashenkel/GeekBrains-technological_specialization-ELECTIVES/blob/main/03.%20Advanced%20JavaScript/Advanced%20JavaScript.md)***
 
 - ***04. JavaScript про API браузеров (Обучение в записи)[]()***

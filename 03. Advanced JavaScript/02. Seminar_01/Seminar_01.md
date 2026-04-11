@@ -5,7 +5,7 @@
 
 - Выполнение практических заданий в соответствии с [презентацией](https://gbcdn.mrgcdn.ru/uploads/asset/5860209/attachment/2494af3b090b889074d0e6017e6d7678.pdf) к уроку
 
-## Домашняя работа ([решение]())
+## Домашняя работа ([решение](https://github.com/olgashenkel/GeekBrains-technological_specialization-ELECTIVES/blob/main/03.%20Advanced%20JavaScript/02.%20Seminar_01/homework/script.js))
 
 **Задание 1**
 - Используя `Symbol.iterator`, создайте объект `"Музыкальная коллекция"`, который можно итерировать. Каждая итерация должна возвращать следующий альбом из коллекции.
@@ -161,7 +161,7 @@ printOrders(orders, dishToChef);
 
 
 
-## Практическая работа с семинара ([решение]()):
+## Практическая работа с семинара ([решение](https://github.com/olgashenkel/GeekBrains-technological_specialization-ELECTIVES/blob/main/03.%20Advanced%20JavaScript/02.%20Seminar_01/seminar_01/script.js)):
 
 
 ### Задание 1 (тайминг 20 минут)
