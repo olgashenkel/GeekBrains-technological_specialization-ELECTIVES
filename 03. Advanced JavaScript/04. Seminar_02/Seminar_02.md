@@ -211,7 +211,7 @@ init();
 
 
 
-## Практическая работа с семинара ([решение](https://github.com/olgashenkel/GeekBrains-technological_specialization-ELECTIVES/blob/main/03.%20Advanced%20JavaScript/02.%20Seminar_01/seminar_01/script.js)):
+## Практическая работа с семинара ([решение](https://github.com/olgashenkel/GeekBrains-technological_specialization-ELECTIVES/blob/main/03.%20Advanced%20JavaScript/04.%20Seminar_02/seminar_02/script.js)):
 
 
 ### Задание 1 (тайминг 25 минут)
