@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Seminar_02</title>
+    <style>
+      body {
+        font-family: sans-serif;
+        padding: 20px;
+      }
+      #message {
+        margin-top: 15px;
+        font-weight: bold;
+      }
+      .error {
+        color: red;
+      }
+      .success {
+        color: rgb(0, 0, 0);
+      }
+    </style>
+
+  </head>
+  <body>
+
+    <!-- Задание № 3 -->
+    <input type="text" id="userInput" placeholder="Введите число" />
+    <button onclick="checkNumber()">Проверить</button>
+
+    <div id="message"></div>
+
+
+    <!-- Задание № 4 -->
+    
+    <input type="text" id="itemInput" placeholder="От 3 до 10 символов">
+    <button onclick="addItem()">Добавить</button>
+    
+    <ul id="itemList"></ul>
+
+    <script src="script.js"></script>
+  </body>
+</html>

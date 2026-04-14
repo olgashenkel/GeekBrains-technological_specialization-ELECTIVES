@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Homework_02</title>
+  </head>
+  <body>
+    <div class="app">
+      <h2>Оставить отзыв</h2>
+
+      <select id="product-select">
+        Опции добавятся динамически
+      </select>
+
+      <textarea
+        id="review-text"
+        placeholder="Введите ваш отзыв (от 50 до 500 символов)"
+      ></textarea>
+      <button id="submit-btn">Отправить отзыв</button>
+      <p id="error-message" style="color: red"></p>
+
+      <div id="reviews-container">
+        <!-- Отзывы появятся здесь -->
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
