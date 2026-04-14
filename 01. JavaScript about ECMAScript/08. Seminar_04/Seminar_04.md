@@ -5,7 +5,7 @@
 
 - Выполнение практических заданий в соответствии с [презентацией](https://gbcdn.mrgcdn.ru/uploads/asset/5855359/attachment/281be555eb44852439ce42ccd1bfa9b3.pdf) к уроку
 
-## Домашняя работа ([решение](https://github.com/olgashenkel/GeekBrains-technological_specialization-ELECTIVES/blob/main/01.%20JavaScript%20about%20ECMAScript/08.%20Seminar_04/homework/script.js))
+## Домашняя работа - Промежуточная аттестация ([решение](https://github.com/olgashenkel/GeekBrains-technological_specialization-ELECTIVES/blob/main/01.%20JavaScript%20about%20ECMAScript/08.%20Seminar_04/homework/script.js))
 
 
 **""Получение данных о пользователе""**
