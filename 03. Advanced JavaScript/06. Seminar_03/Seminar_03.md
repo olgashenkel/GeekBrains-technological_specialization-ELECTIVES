@@ -5,7 +5,7 @@
 
 - Выполнение практических заданий в соответствии с [презентацией](https://gbcdn.mrgcdn.ru/uploads/asset/5860211/attachment/8ee33fbc410b9c5165b6e6f5ae520f24.pdf) к уроку
 
-## Домашняя работа ([решение](https://github.com/olgashenkel/GeekBrains-technological_specialization-ELECTIVES/blob/main/03.%20Advanced%20JavaScript/02.%20Seminar_01/homework/script.js))
+## Домашняя работа ([решение](https://github.com/olgashenkel/GeekBrains-technological_specialization-ELECTIVES/blob/main/03.%20Advanced%20JavaScript/06.%20Seminar_03/homework))
 
 Создайте интерактивную веб-страницу для оставления и просмотра отзывов о продуктах. Пользователи могут добавлять отзывы о различных продуктах и просматривать добавленные отзывы.
 
