@@ -1,0 +1,171 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Seminar_03</title>
+
+    <!-- Задание № 2 -->
+    <!-- <style>
+      body {
+        font-family: sans-serif;
+        padding: 20px;
+        line-height: 1.6;
+      }
+      .controls {
+        margin-bottom: 20px;
+      }
+      .controls div {
+        margin-bottom: 10px;
+      }
+      select {
+        padding: 5px;
+        margin-left: 10px;
+      }
+      button {
+        padding: 8px 15px;
+        cursor: pointer;
+        margin-right: 10px;
+      }
+      #result {
+        margin-top: 20px;
+        padding: 15px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        min-height: 50px;
+      }
+      .empty-msg {
+        color: #888;
+        font-style: italic;
+      }
+    </style> -->
+
+    <!-- Задание № 3 -->
+    <style>
+      body {
+        font-family: sans-serif;
+        display: flex;
+        justify-content: center;
+        padding-top: 50px;
+        background: #f4f4f9;
+      }
+      .card {
+        background: white;
+        padding: 2rem;
+        border-radius: 8px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        width: 300px;
+      }
+      input {
+        width: 100%;
+        padding: 10px;
+        margin: 10px 0;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        box-sizing: border-box;
+      }
+      button {
+        width: 100%;
+        padding: 10px;
+        background: #007bff;
+        color: white;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+      }
+      button:hover {
+        background: #0056b3;
+      }
+      .error {
+        color: red;
+        font-size: 0.8rem;
+        margin-bottom: 10px;
+      }
+      .hidden {
+        display: none;
+      }
+      p {
+        text-align: center;
+      }
+      a {
+        color: #007bff;
+        cursor: pointer;
+        text-decoration: underline;
+      }
+    </style>
+
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <!-- Задание № 1 -->
+    <!-- <div class="container">
+      <h1>Новости сегодня</h1>
+      <button id="load-btn">Загрузить новости</button>
+      <div id="news-container"></div>
+    </div> -->
+
+    <!-- Задание № 2 -->
+    <!-- <div class="controls">
+      <div>
+        <label for="table">Выберите стол (материал):</label>
+        <select id="table">
+          <option value="Дуб">Дуб</option>
+          <option value="Сосна">Сосна</option>
+          <option value="Орех">Орех</option>
+        </select>
+      </div>
+
+      <div>
+        <label for="chair">Выберите стул (материал):</label>
+        <select id="chair">
+          <option value="Кожа">Кожа</option>
+          <option value="Ткань">Ткань</option>
+          <option value="Пластик">Пластик</option>
+        </select>
+      </div>
+
+      <div>
+        <label for="sofa">Выберите диван (стиль):</label>
+        <select id="sofa">
+          <option value="Современный">Современный</option>
+          <option value="Классический">Классический</option>
+          <option value="Деревенский">Деревенский</option>
+        </select>
+      </div>
+
+      <button id="save">Сохранить комплект</button>
+      <button id="clear">Очистить настройки</button>
+    </div>
+
+    <div id="result"></div> -->
+
+    <!-- Задание № 4 -->
+    <!-- 1. Страница регистрации -->
+    <div id="registerPage" class="card">
+      <h2>Регистрация</h2>
+      <input type="text" id="regLogin" placeholder="Придумайте логин" />
+      <input type="password" id="regPass" placeholder="Придумайте пароль" />
+      <button onclick="register()">Зарегистрироваться</button>
+      <p>Уже есть аккаунт? <a onclick="showPage('loginPage')">Войти</a></p>
+    </div>
+
+    <!-- 2. Страница входа -->
+    <div id="loginPage" class="card hidden">
+      <h2>Вход</h2>
+      <div id="loginError" class="error"></div>
+      <input type="text" id="loginUser" placeholder="Логин" />
+      <input type="password" id="loginPass" placeholder="Пароль" />
+      <button onclick="login()">Войти</button>
+      <p>Нет аккаунта? <a onclick="showPage('registerPage')">Создать</a></p>
+    </div>
+
+    <!-- 3. Страница приветствия -->
+    <div id="welcomePage" class="card hidden">
+      <h2 id="welcomeText">Привет!</h2>
+      <p>Вы успешно авторизованы в системе.</p>
+      <button onclick="logout()" style="background: #6c757d">Выйти</button>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

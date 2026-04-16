@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Homework_03</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <nav>
+      <button onclick="showSection('add-section')">Добавить отзыв</button>
+      <button
+        onclick="
+          showSection('view-section');
+          renderProductList();
+        "
+      >
+        Просмотр отзывов
+      </button>
+    </nav>
+
+    <!-- Секция добавления -->
+    <div id="add-section" class="section active">
+      <h2>Оставить отзыв</h2>
+      <div class="form-group">
+        <label>Название продукта:</label>
+        <input
+          type="text"
+          id="product-name"
+          placeholder='Например: телевизор марки "X"'
+        />
+      </div>
+      <div class="form-group">
+        <label>Ваш отзыв:</label>
+        <textarea
+          id="review-text"
+          rows="4"
+          placeholder="Поле для ввода отзыва..."
+        ></textarea>
+      </div>
+      <button onclick="saveReview()">Добавить отзыв</button>
+    </div>
+
+    <!-- Секция просмотра -->
+    <div id="view-section" class="section">
+      <h2>Список продуктов</h2>
+      <div id="product-list"></div>
+      <div id="reviews-detail"></div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

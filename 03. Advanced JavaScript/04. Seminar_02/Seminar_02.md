@@ -5,7 +5,7 @@
 
 - Выполнение практических заданий в соответствии с [презентацией](https://gbcdn.mrgcdn.ru/uploads/asset/5860210/attachment/3994581853b1598eefecd3f2d955c3b1.pdf) к уроку
 
-## Домашняя работа ([решение](https://github.com/olgashenkel/GeekBrains-technological_specialization-ELECTIVES/blob/main/03.%20Advanced%20JavaScript/02.%20Seminar_01/homework/script.js))
+## Домашняя работа ([решение](https://github.com/olgashenkel/GeekBrains-technological_specialization-ELECTIVES/blob/main/03.%20Advanced%20JavaScript/04.%20Seminar_02/homework/script.js))
 
 **Задание 1**
 
