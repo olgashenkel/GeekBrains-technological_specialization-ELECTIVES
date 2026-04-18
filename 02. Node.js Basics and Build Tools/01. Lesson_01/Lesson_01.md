@@ -11,5 +11,5 @@
 - Написание простого веб-сервера
 
 
-## Практическая работа с лекции ([решение](https://github.com/olgashenkel/GeekBrains-technological_specialization-ELECTIVES/tree/main/02.%20Node.js%20Basics%20and%20Build%20Tools/01.%20Lesson_01))
+## Практическая работа с лекции ([решение](https://github.com/olgashenkel/GeekBrains-technological_specialization-ELECTIVES/tree/main/02.%20Node.js%20Basics%20and%20Build%20Tools/01.%20Lesson_01/lesson_01))
 
