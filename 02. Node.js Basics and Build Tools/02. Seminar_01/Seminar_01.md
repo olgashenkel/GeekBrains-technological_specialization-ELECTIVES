@@ -10,7 +10,7 @@
 - Попрактикуемся в написании HTTP сервера 
 
 ---
-## Домашняя работа ([задание](https://gbcdn.mrgcdn.ru/uploads/asset/5856167/attachment/50ea8eba7de7b44d61526b571bf6cb7b.pdf)) - [решение]()
+## Домашняя работа ([задание](https://gbcdn.mrgcdn.ru/uploads/asset/5856167/attachment/50ea8eba7de7b44d61526b571bf6cb7b.pdf)) - [решение](https://github.com/olgashenkel/GeekBrains-technological_specialization-ELECTIVES/blob/main/02.%20Node.js%20Basics%20and%20Build%20Tools/02.%20Seminar_01/seminar_01/homework.js)
 
 Напишите HTTP сервер и реализуйте два обработчика, где:
 - По `URL “/”` будет возвращаться страница, на которой есть гиперссылка на вторую страницу по ссылке `“/about”`
@@ -62,7 +62,7 @@ createServer(function (request, response) {
 
 ---
 
-## Практическая работа с семинара ([решение]()):
+## Практическая работа с семинара ([решение](https://github.com/olgashenkel/GeekBrains-technological_specialization-ELECTIVES/tree/main/02.%20Node.js%20Basics%20and%20Build%20Tools/02.%20Seminar_01/seminar_01)):
 
 
 ### Задание 1 (тайминг 5 минут)

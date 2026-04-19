@@ -2,7 +2,7 @@
 # Основы Node.js и инструменты сборки кода (обучение в записи)
 
 ### 1. [Урок 1. Лекция: Введение в Nоde.js](https://github.com/olgashenkel/GeekBrains-technological_specialization-ELECTIVES/blob/main/02.%20Node.js%20Basics%20and%20Build%20Tools/01.%20Lesson_01/Lesson_01.md)
-### 2. [Урок 2. Семинар: Введение в Node.js]()
+### 2. [Урок 2. Семинар: Введение в Node.js](https://github.com/olgashenkel/GeekBrains-technological_specialization-ELECTIVES/blob/main/02.%20Node.js%20Basics%20and%20Build%20Tools/02.%20Seminar_01/Seminar_01.md)
 ### 3. Урок 3. Лекция: Введение в NPM[]()
 ### 4. Урок 4. Семинар: Введение в NPM[]()
 ### 5. Урок 5. Лекция: Модули и фреймворк Express (WIP)[]()
