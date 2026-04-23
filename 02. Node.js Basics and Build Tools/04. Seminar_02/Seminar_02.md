@@ -11,7 +11,7 @@
  
 
 ---
-## Домашняя работа [решение]()
+## Домашняя работа [решение](https://github.com/olgashenkel/GeekBrains-technological_specialization-ELECTIVES/tree/main/02.%20Node.js%20Basics%20and%20Build%20Tools/04.%20Seminar_02/seminar_02/homework) ([проверка](https://github.com/olgashenkel/GeekBrains-technological_specialization-ELECTIVES/tree/main/02.%20Node.js%20Basics%20and%20Build%20Tools/04.%20Seminar_02/seminar_02/homework_check))
 
 **Написать свою собственную библиотеку и опубликовать в NPM.**
 
@@ -25,7 +25,6 @@
 Формат сдачи задания:
 - Достаточно прислать ссылку на сайт [https://npmjs.com/](https://npmjs.com/) на вашу библиотеку
 
-
 Идеи для библиотеки:
 - Библиотека для генерации случайных данных, таких как имена, адреса, даты, числа и т.д. Это может быть полезно для тестирования или создания заглушек данных.
 - Библиотека для работы с математикой: например функции для решения квадратных уравнений.
@@ -34,13 +33,7 @@
 
 ***Результат выполнения Домашней работы:***
 
-
-![Домашняя работа](seminar_01/images/homework_1.jpg)
-
-![Домашняя работа](seminar_01/images/homework_2.jpg)
-
-![Домашняя работа](seminar_01/images/homework_3.jpg)
-
+![Домашняя работа](seminar_02/images/homework.jpg)
 ---
 
 ## Практическая работа с семинара ([решение](https://github.com/olgashenkel/GeekBrains-technological_specialization-ELECTIVES/tree/main/02.%20Node.js%20Basics%20and%20Build%20Tools/04.%20Seminar_02/seminar_02)):
