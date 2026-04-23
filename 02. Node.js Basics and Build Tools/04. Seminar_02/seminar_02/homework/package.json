@@ -1,9 +1,12 @@
 {
   "name": "homework_helga",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
-  "repository": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/olgashenkel/GeekBrains-technological_specialization-ELECTIVES/tree/main/02.%20Node.js%20Basics%20and%20Build%20Tools/04.%20Seminar_02/seminar_02/homework/README.md"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
