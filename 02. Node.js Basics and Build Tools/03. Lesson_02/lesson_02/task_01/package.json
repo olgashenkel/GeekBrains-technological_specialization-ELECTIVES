@@ -1,0 +1,15 @@
+{
+  "name": "lesson_02",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "task_01.js",
+  "scripts": {
+    "start": "node ./task_01.js"
+  },
+  "dependencies": {
+    "uuid": "^14.0.0"
+  }
+}

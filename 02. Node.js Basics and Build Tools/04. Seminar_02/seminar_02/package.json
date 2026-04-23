@@ -1,0 +1,20 @@
+{
+  "name": "seminar_02",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "task_03.js",
+  "scripts": {
+    "ingenerate": "nodemon task_03.js",
+    "start": "nodemon task_03.js"
+  },
+  "dependencies": {
+    "color-terminal": "^0.0.3-4",
+    "colors": "^1.4.0",
+    "nodemon": "^3.1.14",
+    "number-precision": "^1.6.0",
+    "uuid": "^14.0.0"
+  }
+}
