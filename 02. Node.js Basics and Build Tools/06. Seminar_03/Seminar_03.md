@@ -183,13 +183,6 @@ app.listen(port, () => {
 });
 ```
 
-![Задание № 5](seminar_03/images/task_05_1.jpg)
-
-![Задание № 5](seminar_03/images/task_05_2.jpg)
-
-
-
-
 ### Задание 6 (тайминг 10 минут)
 
 ![Задание № 6](seminar_03/images/task_06.jpg)
