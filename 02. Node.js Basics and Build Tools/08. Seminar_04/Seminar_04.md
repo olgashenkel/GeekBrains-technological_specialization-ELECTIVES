@@ -210,7 +210,7 @@ app.listen(3000);
 ---
 
 
-## Практическая работа с семинара ([решение](https://github.com/olgashenkel/GeekBrains-technological_specialization-ELECTIVES/tree/main/02.%20Node.js%20Basics%20and%20Build%20Tools/08.%20Seminar_04/seminar_04)):
+## Практическая работа с семинара ([решение](https://github.com/olgashenkel/GeekBrains-technological_specialization-ELECTIVES/blob/main/02.%20Node.js%20Basics%20and%20Build%20Tools/08.%20Seminar_04/seminar_04/tasks/index.js)):
 
 
 
