@@ -6,4 +6,4 @@
 
 - ***03. [Продвинутый JavaScript (Обучение в записи)](https://github.com/olgashenkel/GeekBrains-technological_specialization-ELECTIVES/blob/main/03.%20Advanced%20JavaScript/Advanced%20JavaScript.md)***
 
-- ***04. JavaScript про API браузеров (Обучение в записи)[]()***
+- ***04. [JavaScript про API браузеров (Обучение в записи)](https://github.com/olgashenkel/GeekBrains-technological_specialization-ELECTIVES/blob/main/04.%20JavaScript%20about%20Browser%20APIs/Advanced%20JavaScript.md)***
