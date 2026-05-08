@@ -1,12 +1,31 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
+
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Homework_03</title>
+    <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
-    
+    <div class="container">
+        <div id="photo-card">
+            <img id="main-img" src="" alt="Загрузка изображения...">
+            <div class="info">
+                <p>Автор: <span id="author-name">Загрузка...</span></p>
+                <div class="actions">
+                    <button id="like-btn">❤️ <span id="like-count">0</span></button>
+                    <button id="next-btn">Следующее →</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="history">
+            <h3>История просмотров</h3>
+            <ul id="history-list"></ul>
+        </div>
+    </div>
     <script src="script.js"></script>
 </body>
+
 </html>

@@ -1,0 +1,78 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    display: flex;
+    justify-content: center;
+    background: #ececec;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 500px;
+    width: 100%;
+    background: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
+
+#main-img {
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+    border-radius: 10px;
+    background: #eee;
+}
+
+.info {
+    margin-top: 15px;
+}
+
+.actions {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+#like-btn,
+#next-btn {
+    cursor: pointer;
+    padding: 10px 15px;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    background: white;
+    flex-grow: 1;
+}
+
+#like-btn:hover {
+    background: #fff0f0;
+    border-color: #ff4d4d;
+}
+
+#next-btn:hover {
+    background: #f0f0f0;
+}
+
+.history {
+    margin-top: 25px;
+    border-top: 1px solid #eee;
+}
+
+.history h3 {
+    font-size: 16px;
+    color: #333;
+}
+
+#history-list {
+    list-style: none;
+    padding: 0;
+    max-height: 150px;
+    overflow-y: auto;
+    font-size: 13px;
+    color: #666;
+}
+
+#history-list li {
+    padding: 5px 0;
+    border-bottom: 1px solid #fafafa;
+}
