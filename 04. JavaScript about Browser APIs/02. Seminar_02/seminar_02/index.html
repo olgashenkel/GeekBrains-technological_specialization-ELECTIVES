@@ -1,12 +1,249 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Seminar_02</title>
+
+    <!-- Задание № 1 -->
+    <!-- <style>
+        .menu {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            max-width: 400px;
+            gap: 10px;
+            background: #ebebeb;
+            padding: 10px;
+            border-radius: 8px;
+        }
+
+        .menu-item {
+            text-decoration: none;
+            color: #333;
+            padding: 10px 15px;
+            border-radius: 5px;
+            transition: all 0.3s ease;
+            /* Плавный переход цветов */
+        }
+
+        /* Эффект наведения */
+        .menu-item:hover {
+            background-color: #e0e0e0;
+            color: #007bff;
+        }
+
+        /* Стиль для активного пункта */
+        .menu-item.active {
+            background-color: #007bff;
+            color: white;
+        }
+    </style> -->
+
+
+    <!-- Задание № 2 -->
+    <!-- <style>
+        /* Фон модального окна */
+        .modal {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            /* Эффект плавности */
+            opacity: 0;
+            visibility: hidden;
+            transition: opacity 0.3s ease, visibility 0.3s ease;
+        }
+
+        /* Состояние при открытии */
+        .modal.is-open {
+            opacity: 1;
+            visibility: visible;
+        }
+
+        /* Контент окна */
+        .modal-content {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            text-align: center;
+            min-width: 300px;
+        }
+        /* Стилистика для кнопки "Закрыть" */
+        #closeBtn {
+            background-color: lightskyblue;
+            border: none;
+            height: 30px;
+            width: 150px;
+            text-align: center;
+        }
+
+        #closeBtn:hover {
+            background-color: rgba(135, 206, 250, 0.6);
+            border: 1px solid #000;
+            border-radius: 3px;
+        }
+    </style> -->
+
+    <!-- Задание № 3 -->
+    <!-- <style>
+        .buy-button {
+            background-color: hsl(224, 100%, 60%);
+            border: 1px solid #00000027;
+            border-radius: 3px;
+            height: 40px;
+            min-width: 100px;
+            text-align: center;
+            font-size: 16px;
+            color: #ffffff;
+        }
+
+        .buy-button:hover {
+            background-color: hsl(224, 100%, 60%, 0.6);
+            border: 1px solid #000;
+            border-radius: 3px;
+        }
+    </style> -->
+
+    <!-- Задание № 4 -->
+    <style>
+        body {
+            font-family: sans-serif;
+            background: #f4f4f9;
+            display: flex;
+            justify-content: center;
+            padding: 20px;
+        }
+
+        .quiz-container {
+            background: white;
+            padding: 25px;
+            border-radius: 10px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            max-width: 500px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+
+        .question {
+            margin-bottom: 20px;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 15px;
+        }
+
+        .question p {
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        label {
+            display: block;
+            margin: 5px 0;
+            cursor: pointer;
+        }
+
+        button {
+            width: 100%;
+            padding: 12px;
+            background: #28a745;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background: #218838;
+        }
+
+        #results {
+            margin-top: 20px;
+            padding: 15px;
+            background: #e9ecef;
+            border-radius: 5px;
+            display: none;
+        }
+
+        .error {
+            color: #dc3545;
+            font-weight: bold;
+            text-align: center;
+            margin-bottom: 15px;
+            display: none;
+        }
+    </style>
 </head>
+
 <body>
-    
+    <!-- Задание № 1 -->
+    <!-- <nav class="menu">
+        <a href="javascript:void(0)" class="menu-item active">Главная</a>
+        <a href="javascript:void(0)" class="menu-item">О нас</a>
+        <a href="javascript:void(0)" class="menu-item">Услуги</a>
+        <a href="javascript:void(0)" class="menu-item">Контакты</a>
+    </nav> -->
+
+    <!-- Задание № 2 -->
+
+    <!-- Кнопка вызова -->
+    <!-- <button id="openBtn">Открыть модальное окно</button> -->
+
+    <!-- Разметка модального окна -->
+    <!-- <div id="myModal" class="modal">
+        <div class="modal-content">
+            <h2>Модальное окно</h2>
+            <p>Нажмите кнопку "Закрыть", чтобы закрыть окно</p>
+            <button id="closeBtn">Закрыть</button>
+        </div>
+    </div> -->
+
+    <!-- Задание № 3 -->
+    <!-- <button class="buy-button">Купить</button> -->
+
+    <!-- Задание № 4 -->
+    <div class="quiz-container">
+        <h1>Мини-опрос</h1>
+
+        <div id="quiz-form">
+            <!-- Вопрос 1 -->
+            <div class="question" data-q="1">
+                <p>1. Какой ваш любимый язык программирования?</p>
+                <label><input type="radio" name="q1" value="JavaScript"> JavaScript</label>
+                <label><input type="radio" name="q1" value="Python"> Python</label>
+                <label><input type="radio" name="q1" value="C++"> C++</label>
+            </div>
+
+            <!-- Вопрос 2 -->
+            <div class="question" data-q="2">
+                <p>2. Какую среду разработки вы предпочитаете?</p>
+                <label><input type="radio" name="q2" value="VS Code"> VS Code</label>
+                <label><input type="radio" name="q2" value="WebStorm"> WebStorm</label>
+                <label><input type="radio" name="q2" value="Vim/Emacs"> Vim/Emacs</label>
+            </div>
+
+            <div id="error-msg" class="error">Пожалуйста, ответьте на все вопросы!</div>
+            <button onclick="finishQuiz()">Завершить опрос</button>
+        </div>
+
+        <div id="results">
+            <h3>Ваши ответы:</h3>
+            <div id="results-content"></div>
+        </div>
+    </div>
+
     <script src="script.js"></script>
 </body>
+
 </html>
