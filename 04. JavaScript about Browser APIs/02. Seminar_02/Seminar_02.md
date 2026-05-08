@@ -318,6 +318,7 @@ loadNews();
 ### Задание 1 (тайминг 15 минут)
 
 Текст задания
+
 ![Задание № 1](seminar_02/images/1_1.jpg)
 
 ![Задание № 1](seminar_02/images/1_2.jpg)
@@ -393,6 +394,7 @@ menuItems.forEach(item => {
 ### Задание 2 (тайминг 15 минут)
 
 Текст задания
+
 ![Задание № 2](seminar_02/images/2_1.jpg)
 
 
@@ -495,6 +497,7 @@ window.addEventListener('click', (event) => {
 ### Задание 3 (тайминг 10 минут)
 
 Текст задания
+
 ![Задание № 3](seminar_02/images/1_1.jpg)
 
 ![Задание № 3](seminar_02/images/1_2.jpg)
@@ -554,6 +557,7 @@ buyButton.addEventListener('click', (event) => {
 ### Задание 4 (тайминг 20 минут)
 
 Текст задания
+
 ![Задание № 4](seminar_02/images/1_1.jpg)
 
 ![Задание № 4](seminar_02/images/1_2.jpg)
