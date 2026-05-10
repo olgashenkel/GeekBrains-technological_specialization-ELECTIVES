@@ -5,7 +5,7 @@
 
 - Выполнение практических заданий в соответствии с [презентацией](https://gbcdn.mrgcdn.ru/uploads/asset/5860236/attachment/14c717500acc4e87809390aaeeca4670.pdf) к уроку
 
-## Домашняя работа ([решение]())
+## Домашняя работа ([решение](https://github.com/olgashenkel/GeekBrains-technological_specialization-ELECTIVES/tree/main/04.%20JavaScript%20about%20Browser%20APIs/01.%20Seminar_01/homework))
 
 Вы разрабатываете веб-страницу для отображения расписания занятий в спортивном клубе. Каждое занятие имеет название, время проведения, максимальное количество участников и текущее количество записанных участников.
 
@@ -170,7 +170,7 @@ renderSchedule();
 
 
 
-## Практическая работа с семинара ([решение]()):
+## Практическая работа с семинара ([решение](https://github.com/olgashenkel/GeekBrains-technological_specialization-ELECTIVES/tree/main/04.%20JavaScript%20about%20Browser%20APIs/01.%20Seminar_01/seminar_01)):
 
 
 ### Задание 1 (тайминг 30 минут)
